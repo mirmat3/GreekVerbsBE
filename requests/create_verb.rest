@@ -1,0 +1,11 @@
+POST http://localhost:3001/api/verbs 
+Content-Type: application/json
+
+
+
+{
+    "verbo": "είμαι",
+    "traduccion": "ser, estar",
+    "aoristo": "ήμουν",
+    "paratatiko": "ήμουν"
+}

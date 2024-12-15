@@ -1,0 +1,19 @@
+- si el verbo es voz activa crear un INSERT con la voz pasiva
+
+me puedes hacer este insert:   INSERT INTO verbos (tipo, verbo, traduccion, aoristo, ypotaktiki, paratatikos, imperativo, nivel) VALUES (?, ?, ?, ?, ?, ?, ?, ?) para el verbo γνωρίζω?
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+me puedes hacer este insert:INSERT INTO verbos (tipo, verbo, traduccion, aoristo, ypotaktiki, paratatikos, imperativo, nivel) VALUES (?, ?, ?, ?, ?, ?, ?, ?) para la siguiente lista de verbos y con estas condiciones?
+condiciones: 
+- el tipo es E si es voz activa y P si es voz pasiva
+ 
+- el ypotaktiki de la voz pasiva termina en la forma -όμουνα cuando corresponda
+- que estén agrupados para que solo tenga que copiarlo una vez
+
+La lista de verbos con su traducción y tipo es:
+- γεύομαι (saborear)
+- γεφυρώνω  (unir, conectar, puentear)
